@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Suf06
-- 👀 I’m interested in User-Agile Development and UX design
-- 🌱 I’m currently learning CSS, HTML, Javascript
-- 💞️ I’m looking to collaborate on building my own website and web development
+- 👋 Hi, I’m Sufyan Hammoudeh
+- 👀 I’m interested in Data Analytics and Data Engineering
+- 🌱 I’m currently learning Advanced SQL Topics, Some Python, and Different Data Visluaization tools
+- 💞️ I’m looking to collaborate on Data Projects involving mostly SQL, Tableau and Power BI
 
-- 📫 How to reach me sufyanhammoudeh@gmail.com
+- 📫 How to reach me sufyanhammoudeh@gmail.com or on my LinkedIn: https://www.linkedin.com/in/sufyan-hammoudeh/
 
 - ⚡ Fun fact: I am a huge sports fanatic and I enjoy watching the NFL & NBA. I also enjoy spending time with family and friends and weight lifting
 
